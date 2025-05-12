@@ -178,11 +178,9 @@ body {
     flex: 1;
     border-bottom: 1px solid #eaeaea;
 }
-
 .divider::before {
     margin-right: 13px;
 }
-
 .divider::after {
     margin-left: 13px;
 }
