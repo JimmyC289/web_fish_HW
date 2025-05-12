@@ -22,7 +22,7 @@ body {
     padding-top: 47px; /* 與上方區塊有點距離 */
 }
 
-.welcome-block .welcome {
+.welcome {
     font-size: 32px;
     font-family: Arial, sans-serif;
     text-align: center;
